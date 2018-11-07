@@ -1,0 +1,1 @@
+cscript.exe "C:\Bulk_SMS_Backup_Copy.vbs"

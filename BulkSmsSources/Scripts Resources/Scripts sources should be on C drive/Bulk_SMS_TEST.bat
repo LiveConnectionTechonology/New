@@ -1,0 +1,1 @@
+cscript.exe "C:\ZAIN_SMS_TEST.vbs"
